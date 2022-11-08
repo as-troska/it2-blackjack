@@ -33,7 +33,11 @@ class Deck:
 
 #class Player:
 
+#Class Dealer(Player):
 
+#class Game:
+
+# Testing
 
 deck = Deck(4)
 deck.generate()
